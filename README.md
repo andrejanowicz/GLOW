@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/andrejanowicz/GLOW/main/images/GLOW_V1_1_render.png" width="800"></br>
 
-### You might know the situation:
+### you might now the situation
 
 >You’re at band rehearsal, playing your beautiful L2000 in active mode with crisp treble boost (you wanna be heard, right?), as you notice the dreaded hissing of a dying battery. You switch to passive mode with the swiftness of a hungry cheetah, but the guitarist already gives you the look. Of course he has noticed. He always does. You did only pretend to notice the pre CBS mojo of his '62 Strat though. Take that, Mr. all-passive-signal-path.
 >
@@ -28,4 +28,5 @@
 ## installed
 <img src="https://github.com/andrejanowicz/GLOW/blob/main/images/installed.jpg" width="800">
 
-I give absolutely no guarantee that the PCB and most important the position of the toggle switches will fit your bass. I succesfully installed the board in four and five string indonesia Tribute models (L-2000 and L-2500). I don't know it fits in USA models. Since the toggle switches are a bit bigger then the original ones, you need to use 16mm pots. I am looking forward to your feedback.
+I give absolutely no guarantee that the PCB and most important the position of the toggle switches will fit your bass. I succesfully installed the board in four and five string indonesia Tribute models (L-2000 and L-2500). I don't know if it fits USA models as well. Since the toggle switches are a bit bigger than the original ones, you need to use 16mm pots. I am looking forward to your feedback. 
+This project would have been much harder without the great information found on [bassesbyleo.com](https://www.bassesbyleo.com/) .
