@@ -28,4 +28,4 @@
 ## installed
 <img src="https://github.com/andrejanowicz/GLOW/blob/main/images/installed.jpg" width="800">
 
-I give absolutely no guarantee that the PCB and most important the position of the toggle switches will fit your bass. I succesfully installed the board in four and five string indonesia Tribute models (L-2000 and L-2500). I don't know it fits in USA models. I am looking forward to your feedback.
+I give absolutely no guarantee that the PCB and most important the position of the toggle switches will fit your bass. I succesfully installed the board in four and five string indonesia Tribute models (L-2000 and L-2500). I don't know it fits in USA models. Since the toggle switches are a bit bigger then the original ones, you need to use 16mm pots. I am looking forward to your feedback.
