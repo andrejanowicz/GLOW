@@ -70,19 +70,6 @@
     "version": 3
   },
   "project": {
-    "files": [
-      {
-        "name": "preamp.kicad_pcb",
-        "open": false,
-        "window": {
-          "display": 0,
-          "maximized": false,
-          "pos_x": 665,
-          "pos_y": 18,
-          "size_x": 2027,
-          "size_y": 1382
-        }
-      }
-    ]
+    "files": []
   }
 }
