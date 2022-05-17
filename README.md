@@ -11,7 +11,7 @@
 ## Features
 
 - single PCB with elegant black soldermask
-- directly soldered toggle switches, no extra wires
+- directly soldered toggle switches, no extra wires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
 - additional single coil setting using only outer coils (K-Mod)
 - original preamp circuitry using highest quality components:
 - Wima MKP/FKP foil capacitors, Panasonic FC electrolytic capacitors, Yageo 1% resistors
@@ -28,5 +28,5 @@
 ## installed
 <img src="https://github.com/andrejanowicz/GLOW/blob/main/images/installed.jpg" width="800">
 
-I give absolutely no guarantee that the PCB and most important the position of the toggle switches will fit your bass. I succesfully installed the board in four and five string indonesia Tribute models (L-2000 and L-2500). I don't know if it fits USA models as well. Since the toggle switches are a bit bigger than the original ones, you need to use 16mm pots. I am looking forward to your feedback. 
+I give absolutely no guarantee that the PCB and most important the position of the toggle switches will fit your bass. I succesfully installed the board in four and five string indonesian and korean Tribute models (L-2000 and L-2500). I don't know if it fits USA models as well. Since the toggle switches are a bit bigger than the original ones, you need to use 16mm pots with at least 7mm thread length. I am looking forward to your feedback. 
 This project would have been much harder without the great information found on [bassesbyleo.com](https://www.bassesbyleo.com/) .
