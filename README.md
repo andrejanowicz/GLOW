@@ -34,5 +34,6 @@ The stock 24mm pots are interfering with GLOW PCB and you need to use 16mm pots 
 ## Drill hole position check
 <img src="https://github.com/andrejanowicz/GLOW/blob/main/images/GLOW_test_jig_aligned.jpg" width="800">
 You can upfront assess the fit by 3D printing GLOW_test_jig.stl and align the jig with the position of your toggle switches.
+
 ## Thanks
 This project would have been much harder without the extensive information found on [bassesbyleo.com](https://www.bassesbyleo.com/) .
