@@ -30,7 +30,7 @@
 
 I give absolutely no guarantee that the PCB and most important the position of the toggle switches will fit your bass. I succesfully installed the board in four and five string indonesian and korean Tribute models (L-2000 and L-2500). Fit in USA models is unknown. It does not fit models with the sheet metal cover. 
 You can upfront assess the fit by 3D printing GLOW_test_jig.stl and align the jig with the position of your toggle switches.
-<img src="https://github.com/andrejanowicz/GLOW/blob/main/images/GLOW_test_jig.png" width="800">
-The stock 24mm pots are too big and you need to use 16mm pots with at least 7mm thread length.
+<img src="https://github.com/andrejanowicz/GLOW/blob/main/images/GLOW_test_jig_alignet.jpg" width="800">
+The stock 24mm pots are interfering with GLOW PCB and you need to use 16mm pots with at least 7mm thread length. For more information see BOM document.
 
 This project would have been much harder without the great information found on [bassesbyleo.com](https://www.bassesbyleo.com/) .
